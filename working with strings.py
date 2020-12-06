@@ -3,7 +3,7 @@
 myVar = "abdullah\nkhan"
 # \n = next line
 my_name = "anas khan"
-        #  123456789
+        #  123456789 [ " This Are Index's Number OF my_name" ]
 print(myVar)
 print(my_name)
 print(my_name.lower())
